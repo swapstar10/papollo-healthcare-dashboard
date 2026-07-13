@@ -1,4 +1,4 @@
-# papollo-healthcare-dashboard
+# Healthcare-PowerBI-Dashboard
 
 # 📌 Project Overview
 
